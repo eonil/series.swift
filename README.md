@@ -1,3 +1,5 @@
+ABANDONED. DO NOT USE THIS LIBRARY.
+
 EonilSeries
 ============
 Hoon H.
